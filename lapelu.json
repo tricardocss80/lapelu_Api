@@ -1,0 +1,13 @@
+{
+
+
+  "token": "2bc10c2bf25f1cc536d8f2eafd1254f2416d2ff42f1cb2a68a81464c21917e7f9a3ff781e401ee465233fc07aceb1f4b6801f8707d6af35e03d8e6a7",
+  "url": "https://stg-api.lapelu.com.ar/api/employee",
+  "status_code_ok": 200,
+  "id_employees": [265, 268],
+  "id_locations": 12,
+  "name_employees": ["Andres Sosa", "Silvio Todovac"],
+  "id_brand": 11,
+  "name_brand": "ETTIOS",
+  "total": 2
+}
